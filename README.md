@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avanish Shukla</h1>
-<h3 align="center">A Coding Enthusiast And Passionate Problem Solver From India. Problems are always a Wonderful Learning Opportunity for me !</h3>
+<h3 align="center">A Coding Enthusiast And Passionate Problem Solver From India.</h3>
 
 <img align="right" alt="codeWithCoffee" width="400" height="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
