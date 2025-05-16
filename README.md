@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **avanishshukla2021@gmail.com**
 
-- ⚡ Fun fact **Coding Teaches You How to Think and That's What Excites me !!**
+- ⚡ **Coding Teaches You How to Think and That's What Excites me !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
