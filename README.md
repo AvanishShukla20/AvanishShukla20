@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Avanish Shukla</h1>
-<h3 align="center">A Coding Enthusiast And a Passionate Problem Solver .</h3>
+<h3 align="center">MERN Stack Developer and Problem Solver</h3>
 
 <img align="right" alt="codeWithCoffee" width="400" height="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishshukla20&label=Profile%20views&color=0e75b6&style=flat" alt="avanishshukla20" /> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms,CP, CSS and JavaScript**
+- 🌱 Working On **Web Development and DSA Skills**
 
 - 📫 How to reach me **avanishshukla2021@gmail.com**
 
-- ⚡ **Coding Teaches You How to Think and That's What Excites me !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
