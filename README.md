@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishshukla20&label=Profile%20views&color=0e75b6&style=flat" alt="avanishshukla20" /> </p>
 
-- 🔭 I’m currently working on [book_website](https://github.com/AvanishShukla20/book_website)
+- 🔭 I’m currently working on [Codeforces-POTD-Website](https://github.com/AvanishShukla20/POTD_CF)
 
 - 🌱 I’m currently learning **DSA and MERN Stack(NodeJs, ExpressJs, React, MongoDB)**
 
